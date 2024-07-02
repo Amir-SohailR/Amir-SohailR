@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Amir-SohailR
-- 👀 I’m interested in Web Developing.
-- 🌱 I’m currently learning Front-End Web Developing.
+- 👀 I’m interested as a Developer roles.
+- 🌱 I’m currently learning Full-Stack Web Developing(MERN).
 - 💞️ I’m looking to collaborate with Full-stack-end community developers. 
 - 📫 How to reach me amirsohaildec@gmail.com
 
