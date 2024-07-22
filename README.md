@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Amir-SohailR
-- 👀 I’m interested as a Developer roles.
+- 👀 I’m interested in Developer roles.
 - 🌱 I’m currently learning Full-Stack Web Developing(MERN).
 - 💞️ I’m looking to collaborate with Full-stack-end community developers. 
-- 📫 How to reach me amirsohaildec@gmail.com
+- 📫 How to reach me amirsohailr24@gmail.com
 
 <!---
 Amir-SohailR/Amir-SohailR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
