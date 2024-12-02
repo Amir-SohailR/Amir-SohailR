@@ -1,9 +1,8 @@
 - 👋 Hi, I’m Amir Sohail
-- 👀 I’m interested in Full Stack Developing
-- 🌱 I’m currently learning React.js  
-- 💞️ I’m looking to collaborate with Software Developers
+- 👀 I’m interested in Full Stack Developing.
+- 🌱 I’m currently learning Front End...
+- 💞️ I’m looking to collaborate with Software Developers..
 - 📫 How to reach me amirsohailr24@gmail.com  
-- 😄 Pronouns: ...
 - ⚡ Fun fact: Typical budding //Developer//
 
 <!---
