@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Amir-SohailR
-- 👀 I’m interested in Full Stack Developing (MERN)
+- 👋 Hi, I’m Amir Sohail
+- 👀 I’m interested in Full Stack Developing
 - 🌱 I’m currently learning React.js  
-- 💞️ I’m looking to collaborate on Software Developers
+- 💞️ I’m looking to collaborate with Software Developers
 - 📫 How to reach me amirsohailr24@gmail.com  
 - 😄 Pronouns: ...
 - ⚡ Fun fact: Typical budding //Developer//
